@@ -9,7 +9,7 @@ unzip raspbian_lite_latest.zip
 sudo ./qemu-pi.sh *-raspbian-jessie-lite.img
 ```
 
-# run raspbian with 1G RAM with 4 core
+# Run raspbian with 1G RAM with 4 core
 
 ```
 wget http://downloads.raspberrypi.org/raspbian/images/raspbian-2016-05-31/2016-05-27-raspbian-jessie.zip
